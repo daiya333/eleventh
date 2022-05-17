@@ -1,6 +1,6 @@
 package object2;
 
-public class Pikachu implements Pokemon,ThunderPokemon {
+public class Pikachu implements ThunderPokemon {
 	
 	private String name;
 	

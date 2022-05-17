@@ -1,6 +1,6 @@
 package object2;
 
-public class Rotom implements Pokemon, ThunderPokemon, FirePokemon {
+public class Rotom implements  ThunderPokemon, FirePokemon {
 	
     private String name;
 	

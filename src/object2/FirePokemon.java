@@ -1,5 +1,5 @@
 package object2;
 
-public interface FirePokemon {
+public interface FirePokemon extends Pokemon {
     void fireAttack();
 }

@@ -1,6 +1,6 @@
 package object2;
 
-public class Hitokage implements Pokemon, FirePokemon {
+public class Hitokage implements  FirePokemon {
 	
     private String name;
 	

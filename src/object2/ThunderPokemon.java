@@ -1,5 +1,5 @@
 package object2;
 
-public interface ThunderPokemon {
+public interface ThunderPokemon extends Pokemon {
     void thunderAttack();
 }
